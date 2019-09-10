@@ -19,7 +19,7 @@ Section: FTiOS_Tools
 Filename: ./8.1/18_gpscheat_1.1-4.deb
 Size: 225420
 MD5sum: 112500bf435982c4a9f1551816b794b3
-Depends: fimware(>=7.0), preferenceloader(>=2.2.2), mobilesubstrate(>=0.9.5000)
+Depends: preferenceloader(>=2.2.2), mobilesubstrate(>=0.9.5000)
 
 Package: com.ienthach.ChangeAppleID
 Name: ChangeAppleID
@@ -31,7 +31,7 @@ Section: Utilities
 Filename: ./8.1/com.ienthach.ChangeAppleID_1.4_iphoneos-arm.deb
 Size: 1812484
 MD5sum: b8e1911fe8b2d8c2a6cb3dfce1e1ac69
-Depends: fimware(>=9.0), com.rpetrich.rocketbootstrap, mobilesubstrate
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate
 
 Package: com.ienthach.XoaInfo2018
 Name: XoaInfo2018
@@ -44,4 +44,4 @@ Section: Utilities
 Filename: ./8.1/XoaInfo2018_1.2.2-4_Nam.deb
 Size: 2580732
 MD5sum: e8c95998647ecad352d396060d8e2e1d
-Depends: fimware(>=7.0), com.rpetrich.rocketbootstrap, mobilesubstrate, curl, openssh, zip, unzip
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate, curl, openssh, zip, unzip
