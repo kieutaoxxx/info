@@ -45,3 +45,15 @@ Filename: ./8.1/XoaInfo2018_1.2.2-4_Nam.deb
 Size: 2580732
 MD5sum: e8c95998647ecad352d396060d8e2e1d
 Depends: com.rpetrich.rocketbootstrap, mobilesubstrate, curl, openssh, zip, unzip
+
+Package: com.ienthach.ChangeAppleID
+Name: ChangeAppleID
+Version: 1.6
+Architecture: iphoneos-arm
+Description: Tweak Support for Xoainfo
+Author: AutoleadXXX
+Section: Utilities
+Filename: ./8.1/ChangeAppleID_1.6_Release.deb
+Size: 2828940
+MD5sum: 08a27e596f07daed54b8faa17d1cef1b
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate
